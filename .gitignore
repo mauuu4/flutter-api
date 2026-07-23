@@ -44,5 +44,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-Informe_CRUD_API_Pizzas.docx
-~$forme_CRUD_API_Pizzas.docx
+~$*.docx

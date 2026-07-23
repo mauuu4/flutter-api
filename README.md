@@ -1,5 +1,7 @@
 # CRUD API Pizzas — Flutter consumiendo un API REST propio
 
+Repositorio: https://github.com/mauuu4/flutter-api.git
+
 Aplicación Flutter que implementa un **CRUD (Crear, Leer, Actualizar, Eliminar)** consumiendo un **API REST propio** (Node.js + Express + PostgreSQL), en vez de una base de datos local. El API es [`api-pizzas-rest`](https://github.com/mauuu4/api-pizzas-rest), desplegado en Render: `https://api-pizzas-7v98.onrender.com`.
 
 El modelo de datos es maestro-detalle, fiel al API:
